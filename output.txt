@@ -1,0 +1,4 @@
+demo_data\public_test_img_0.jpg BO
+demo_data\public_test_img_1.jpg Nhoàm
+demo_data\public_test_img_2.jpg NGỰC
+demo_data\public_test_img_3.jpg chương

@@ -1,0 +1,3 @@
+train_img_0.jpg	Thỗn
+train_img_1.jpg	May-So
+train_img_2.jpg	nhẹn
